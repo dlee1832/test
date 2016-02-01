@@ -1,2 +1,2 @@
 # test
-creating a repository for a test
+This is a test repo.
